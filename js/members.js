@@ -1,0 +1,38 @@
+const members = [
+{
+    name:"苫漓ポキ",
+    channelId:"UCBJYyRIMMAELbPYBoz9jg3w",
+    youtube:"https://www.youtube.com/@tomari-poki",
+    image:"images/members/poki.png"
+},
+{
+    name:"国愛めみ",
+    channelId:"UCOkgVkf6Q6fJzEKW2IChvoA",
+    youtube:"https://www.youtube.com/@Kokuou_Memi",
+    image:"images/members/memi.png"
+},
+{
+    name:"深月そると",
+    channelId:"UCqmL8ZUOl7C-lhuh8AhZYTQ",
+    youtube:"https://www.youtube.com/@shinzuki_soruto",
+    image:"images/members/soruto.png"
+},
+{
+    name:"及川結莉",
+    channelId:"UCq5jSnPMGeNF370lfDi2qYg",
+    youtube:"https://www.youtube.com/@yuuri_63",
+    image:"images/members/yuuri.png"
+},
+{
+    name:"夢中ちょん",
+    channelId:"UCiNwl-dJn4Z3RT0y-FydL1Q",
+    youtube:"https://www.youtube.com/@Yumenaka_Chon",
+    image:"images/members/chon.png"
+},
+{
+    name:"雪枝しずく",
+    channelId:"UC8vFX6yFUjwdcGTajaJJ8kg",
+    youtube:"https://www.youtube.com/@yukiedashizuku",
+    image:"images/members/shizuku.png"
+}
+];

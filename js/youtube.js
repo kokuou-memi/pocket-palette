@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyB2O6szcgjQI_1gx_cYcoyKei4kmtXOIAA";
+const API_KEY = "";
 
 async function updateLives() {
 

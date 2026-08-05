@@ -50,7 +50,7 @@ async function checkIsLive(channelId) {
   }
 
   // APIキー未設定の場合は何もしない(コンソールに案内だけ出す)
-  if (!YT_API_KEY || YT_API_KEY === "YOUR_YOUTUBE_API_KEY_HERE") {
+  if (!YT_API_KEY || YT_API_KEY === "AIzaSyB2O6szcgjQI_1gx_cYcoyKei4kmtXOIAA") {
     console.warn("[pkpl] YouTube APIキーが未設定です。js/main.js の YT_API_KEY を設定してください。");
     return { isLive: false, error: true };
   }

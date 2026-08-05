@@ -8,7 +8,7 @@
    (例: https://あなたのユーザー名.github.io/*)に限定してください。
    制限しないと、キーを他人に使われて課金/停止のリスクがあります。
 ========================================================= */
-const YT_API_KEY = "YOUR_YOUTUBE_API_KEY_HERE";
+const YT_API_KEY = "AIzaSyB2O6szcgjQI_1gx_cYcoyKei4kmtXOIAA";
 
 /* 何分キャッシュを使い回すか(ブラウザのlocalStorageに保存)。
    検索APIは1回100クォータ消費し、1日の無料枠は10,000クォータです。
